@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+<img align='right' src='[[https://octodex.github.com/images/hula_loop_octodex03.gif](https://octodex.github.com/images/hula_loop_octodex03.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl2NXpmbXk0eXUzNGt5NW1pcTY0dmVnbHhzN3p4dGNyMm9pbTluOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)' width='200'>
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![Gender](https://img.shields.io/badge/gender-male-blue)
