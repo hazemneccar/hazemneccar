@@ -17,7 +17,7 @@ Contact me if you have similar interests or any questions!
 
 ## 📫 Connect with Me
 
-[LinkedIn][1] | [StackOverflow][2] or just ✉️ [Email Me](mailto:hazmalnajar@gmail.com) | 💬 [Open an Issue](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new) to ask me anything!
+[LinkedIn][1] | [StackOverflow][2] or just ✉️ [Email Me](mailto:hazmalnajar@gmail.com) | 💬 [Open an Issue](https://github.com/hazemneccar/hazemneccar/issues/new) to ask me anything!
 
 ## 📚 Tech Stack & Skills
 
@@ -30,7 +30,6 @@ Here are the technologies I actively use and improve upon:
 
 ## 💻 Open Source Stats
 
-![Hazım's Github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Hazım's Github stats](https://github-readme-stats.vercel.app/api?username=hazemneccar&show_icons=true&theme=radical)
 
-[1]: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
-[2]: https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID/YOUR_USERNAME
+[1]: https://www.linkedin.com/in/hazimneccar/
