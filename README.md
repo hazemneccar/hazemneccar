@@ -9,7 +9,7 @@
 ![](https://visitor-badge.lithub.cc/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
 Hi guys, I'm **Hazım NECCAR**.
-I am a **Computer Engineer** and **Backend Developer** from Turkey.
+I am a **Computer Engineer** and **Backend Developer**.
 
 I'm currently focused on **.NET Technologies** and **Database Architecture**.
 I work on building scalable systems using **C#**, **.NET Core**, **SQL**, and **System Design** principles.
@@ -17,7 +17,7 @@ Contact me if you have similar interests or any questions!
 
 ## 📫 Connect with Me
 
-[LinkedIn][1] | [StackOverflow][2] or just ✉️ [Email Me](mailto:YOUR_EMAIL@gmail.com) | 💬 [Open an Issue](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new) to ask me anything!
+[LinkedIn][1] | [StackOverflow][2] or just ✉️ [Email Me](mailto:hazmalnajar@gmail.com) | 💬 [Open an Issue](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new) to ask me anything!
 
 ## 📚 Tech Stack & Skills
 
