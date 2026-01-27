@@ -17,7 +17,7 @@ Contact me if you have similar interests or any questions!
 
 ## 📫 Connect with Me
 
-[LinkedIn][1] | [StackOverflow][2] or just ✉️ [Email Me](mailto:hazmalnajar@gmail.com) | 💬 [Open an Issue](https://github.com/hazemneccar/hazemneccar/issues/new) to ask me anything!
+[LinkedIn][1] | or just ✉️ [Email Me](mailto:hazmalnajar@gmail.com) | 💬 [Open an Issue](https://github.com/hazemneccar/hazemneccar/issues/new) to ask me anything!
 
 ## 📚 Tech Stack & Skills
 
