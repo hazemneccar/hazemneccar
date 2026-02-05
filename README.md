@@ -29,7 +29,6 @@ Here are the technologies I actively use and improve upon:
 * **Tools:** Docker, Git, Redis
 
 ## 💻 Open Source Stats
-
-![Hazım's Github stats](https://github-readme-stats.vercel.app/api?username=hazemneccar&show_icons=true&theme=radical)
+--Will added soon!
 
 [1]: https://www.linkedin.com/in/hazimneccar/
